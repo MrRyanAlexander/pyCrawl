@@ -1,6 +1,4 @@
-This crawler uses Node.js and Mongo
-
-If you need to insall Node.js go to https://github.com/joyent/node
+This crawler uses Mongo
 
 If you need to install Mongo, go to http://docs.mongodb.org/manual/installation/
 
